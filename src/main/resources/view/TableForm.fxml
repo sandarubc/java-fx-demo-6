@@ -17,7 +17,7 @@
             <TableColumn prefWidth="341.0" text="Address" />
         </columns>
       </TableView>
-      <VBox layoutX="14.0" layoutY="14.0" spacing="10.0">
+      <VBox layoutX="14.0" layoutY="54.0" spacing="10.0">
          <children>
             <Label text="Customer ID" />
             <TextField fx:id="txtId" promptText="Ex: C001" />
@@ -27,6 +27,8 @@
             <TextField fx:id="txtAddress" promptText="Ex: Panadura" />
          </children>
       </VBox>
-      <Button fx:id="btnSaveCustomer" layoutX="279.0" layoutY="41.0" mnemonicParsing="false" onAction="#btnSaveCustomer" text="Save Customer" />
+      <Button fx:id="btnSaveCustomer" layoutX="252.0" layoutY="21.0" mnemonicParsing="false" style="-fx-background-color: blue;" text="Save Customer" textFill="WHITE" />
+      <Button fx:id="btnNewCustomer" layoutX="14.0" layoutY="21.0" mnemonicParsing="false" style="-fx-background-color: green;" text="New Customer" textFill="#e8dada" />
+      <Button fx:id="btnDeleteCustomer" layoutX="252.0" layoutY="103.0" mnemonicParsing="false" style="-fx-background-color: red;" text="Delete Customer" textFill="#fcf8f8" />
    </children>
 </AnchorPane>

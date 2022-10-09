@@ -2,17 +2,17 @@ package model;
 
 import java.io.Serializable;
 
-public class customerTM implements Serializable {
+public class CustomerTM implements Serializable {
 
     private String id;
     private String name;
     private String address;
 
-    public customerTM(){
+    public CustomerTM(){
 
     }
 
-    public customerTM(String id,String name, String address){
+    public CustomerTM(String id, String name, String address){
         this.id=id;
         this.name=name;
         this.address=address;
@@ -40,5 +40,14 @@ public class customerTM implements Serializable {
 
     public void setAddress(String address) {
         this.address = address;
+    }
+
+    @Override
+    public String toString() {
+        return "customerTM{" +
+                "id='" + id + '\'' +
+                ", name='" + name + '\'' +
+                ", address='" + address + '\'' +
+                '}';
     }
 }

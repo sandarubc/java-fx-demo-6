@@ -1,5 +1,7 @@
-/home/Akalanka/IdeaProjects/dep-9/phase01/java-fx-demo-06/src/main/java/Controller/ComboBoxFormController.java
+/home/Akalanka/IdeaProjects/dep-9/phase01/java-fx-demo-06/src/main/java/controller/ComboBoxFormController.java
 /home/Akalanka/IdeaProjects/dep-9/phase01/java-fx-demo-06/src/main/java/ObservableListDemo.java
 /home/Akalanka/IdeaProjects/dep-9/phase01/java-fx-demo-06/src/main/java/ArrayDemo.java
 /home/Akalanka/IdeaProjects/dep-9/phase01/java-fx-demo-06/src/main/java/ArrayListDemo.java
 /home/Akalanka/IdeaProjects/dep-9/phase01/java-fx-demo-06/src/main/java/AppInitializer.java
+/home/Akalanka/IdeaProjects/dep-9/phase01/java-fx-demo-06/src/main/java/model/CustomerTM.java
+/home/Akalanka/IdeaProjects/dep-9/phase01/java-fx-demo-06/src/main/java/controller/TableFormController.java

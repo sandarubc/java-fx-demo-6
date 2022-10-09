@@ -1,6 +1,10 @@
-model/customerTM.class
+model/CustomerTM.class
+controller/TableFormController$5.class
 controller/ComboBoxFormController.class
 controller/TableFormController$1.class
+controller/TableFormController$2.class
+controller/TableFormController$3.class
 controller/ComboBoxFormController$1.class
 controller/ComboBoxFormController$2.class
 controller/TableFormController.class
+controller/TableFormController$4.class
